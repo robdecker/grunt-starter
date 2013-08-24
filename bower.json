@@ -1,0 +1,16 @@
+{
+  "name": "my-theme",
+  "version": "1.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~3.2.1",
+    "formalize": "*",
+    "imagesloaded": "~3.0.4"
+  }
+}
